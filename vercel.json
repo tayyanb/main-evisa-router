@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/gov-20122209465/:path*",
+      "destination": "https://gov-001592b102.vercel.app/:path*"
+    },
+    {
+      "source": "/gov-77712829233/:path*",
+      "destination": "https://gov-2001b256.vercel.app/:path*"
+    }
+  ]
+}
