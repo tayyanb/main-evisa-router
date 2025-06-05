@@ -15,6 +15,26 @@
     {
       "source": "/gov-77712829233/:path*",
       "destination": "https://gov-2001b256.vercel.app/:path*"
+    },
+
+    // 🔹 New Repos Added Below 🔹
+
+    {
+      "source": "/visa-gov-222b01972/visa",
+      "destination": "https://visa-gov-222b01972.vercel.app/visa.png"
+    },
+    {
+      "source": "/visa-gov-00b109203/visa",
+      "destination": "https://visa-gov-00b109203.vercel.app/visa.png"
+    },
+    {
+      "source": "/visa-gov-222b01972/:path*",
+      "destination": "https://visa-gov-222b01972.vercel.app/:path*"
+    },
+    {
+      "source": "/visa-gov-00b109203/:path*",
+      "destination": "https://visa-gov-00b109203.vercel.app/:path*"
     }
   ]
 }
+
