@@ -40,6 +40,13 @@
       "source": "/visa-gov-222b0187210/:path*",
       "destination": "https://visa-gov-222b0187210.vercel.app/:path*"
     },
-    
+    {
+      "source": "/visa-gov-222b10921034/visa",
+      "destination": "https://visa-gov-222b10921034.vercel.app/visa.png"
+    },
+    {
+      "source": "/visa-gov-222b10921034/:path*",
+      "destination": "https://visa-gov-222b10921034.vercel.app/:path*"
+    }
   ]
 }
