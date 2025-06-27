@@ -55,7 +55,7 @@
     {
       "source": "/visa-gov-b2b00822501/:path*",
       "destination": "https://visa-gov-b2b00822501.vercel.app/:path*"
-    }
+    },
     {
       "source": "/visa-gov-2010810b21/visa",
       "destination": "https://visa-gov-2010810b21.vercel.app/visa.png"
